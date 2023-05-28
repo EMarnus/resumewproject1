@@ -375,7 +375,8 @@ button[type="submit"] {
 }
 
 
-
+/* Map style-----------------------------*/
+div #map {min-height: 360px;}
 
 /* Media Queries-----------------------------*/
 
